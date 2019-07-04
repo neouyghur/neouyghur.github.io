@@ -3,17 +3,127 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://neouyghur.github.io/authors/admin/</loc>
+    <loc>https://neouyghur.github.io/publication_types/0/</loc>
+    <lastmod>2019-07-04T17:31:18+10:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://neouyghur.github.io/</loc>
+    <lastmod>2019-07-04T17:31:18+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://neouyghur.github.io/publication/analyzing-deep-features-for-trademark-retrieval/</loc>
+    <lastmod>2019-07-04T17:31:18+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://neouyghur.github.io/authors/</loc>
+    <lastmod>2019-07-04T17:31:18+10:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/authors/cemal-aker/</loc>
+    <lastmod>2019-07-04T17:31:18+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/authors/osman-tursun/</loc>
+    <lastmod>2019-07-04T17:31:18+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/publication_types/</loc>
+    <lastmod>2019-07-04T17:31:18+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/publication/</loc>
+    <lastmod>2019-07-04T17:31:18+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/authors/sinan-kalkan/</loc>
+    <lastmod>2019-07-04T17:31:18+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/authors/clinton-fookes/</loc>
+    <lastmod>2019-07-04T17:09:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/publication/component-based_attention_for_large-scale_trademark_retrieval/</loc>
+    <lastmod>2019-07-04T17:09:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/authors/sabesan-sivipalan/</loc>
+    <lastmod>2019-07-04T17:09:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/authors/sandra-mau/</loc>
+    <lastmod>2019-07-04T17:09:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/authors/simon-denman/</loc>
+    <lastmod>2019-07-04T17:09:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/authors/sridha-sridharan/</loc>
+    <lastmod>2019-07-04T17:09:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/publication_types/3/</loc>
+    <lastmod>1970-01-01T10:33:36+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/publication/a_large-scale_dataset_and_benchmark_for_similar_trademark_retrieval/</loc>
+    <lastmod>1970-01-01T10:33:36+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/publication_types/1/</loc>
+    <lastmod>1970-01-01T10:33:35+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/publication_types/7/</loc>
+    <lastmod>1970-01-01T10:33:35+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/publication/a_comparison_of_methods_for_trademark_retrieval_in_a_large_trademark_dataset/</loc>
+    <lastmod>1970-01-01T10:33:35+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/publication/metu_dataset_a_big_dataset_for_benchmarking_trademark_retrieval/</loc>
+    <lastmod>1970-01-01T10:33:35+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/authors/admin/</loc>
   </url>
   
   <url>
@@ -22,20 +132,29 @@
   </url>
   
   <url>
+    <loc>https://neouyghur.github.io/publication/mtrnet_a_generic_scene_text_eraser/</loc>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/publication/noisy_uyghur_text_normalization/</loc>
+  </url>
+  
+  <url>
     <loc>https://neouyghur.github.io/post/</loc>
   </url>
   
   <url>
-    <loc>https://neouyghur.github.io/publication_types/</loc>
+    <loc>https://neouyghur.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://neouyghur.github.io/authors/rui-zeng/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://neouyghur.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://neouyghur.github.io/talk/</loc>
+    <loc>https://neouyghur.github.io/authors/ruket-cakici/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
