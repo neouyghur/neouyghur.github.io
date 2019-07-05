@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sinan Kalkan on Academic</title>
+    <title>Sinan Kalkan on Osman Tursun</title>
     <link>https://neouyghur.github.io/authors/sinan-kalkan/</link>
-    <description>Recent content in Sinan Kalkan on Academic</description>
+    <description>Recent content in Sinan Kalkan on Osman Tursun</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jul 2019 17:31:18 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://neouyghur.github.io/authors/sinan-kalkan/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Analyzing Deep Features for Trademark Retrieval</title>
       <link>https://neouyghur.github.io/publication/analyzing-deep-features-for-trademark-retrieval/</link>
-      <pubDate>Thu, 04 Jul 2019 17:31:18 +1000</pubDate>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://neouyghur.github.io/publication/analyzing-deep-features-for-trademark-retrieval/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>A_large Scale_dataset_and_benchmark_for_similar_trademark_retrieval</title>
       <link>https://neouyghur.github.io/publication/a_large-scale_dataset_and_benchmark_for_similar_trademark_retrieval/</link>
-      <pubDate>Thu, 01 Jan 1970 10:33:36 +1000</pubDate>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://neouyghur.github.io/publication/a_large-scale_dataset_and_benchmark_for_similar_trademark_retrieval/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>METU dataset: A big dataset for benchmarking trademark retrieval</title>
       <link>https://neouyghur.github.io/publication/metu_dataset_a_big_dataset_for_benchmarking_trademark_retrieval/</link>
-      <pubDate>Thu, 01 Jan 1970 10:33:35 +1000</pubDate>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>https://neouyghur.github.io/publication/metu_dataset_a_big_dataset_for_benchmarking_trademark_retrieval/</guid>
       <description></description>

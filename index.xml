@@ -1,76 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Osman Tursun</title>
     <link>https://neouyghur.github.io/</link>
-    <description>Recent content on Academic</description>
+    <description>Recent content on Osman Tursun</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jul 2019 17:31:18 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://neouyghur.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Analyzing Deep Features for Trademark Retrieval</title>
-      <link>https://neouyghur.github.io/publication/analyzing-deep-features-for-trademark-retrieval/</link>
-      <pubDate>Thu, 04 Jul 2019 17:31:18 +1000</pubDate>
-      
-      <guid>https://neouyghur.github.io/publication/analyzing-deep-features-for-trademark-retrieval/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Component Based Attention for Large Scale Trademark Retrieval</title>
-      <link>https://neouyghur.github.io/publication/component-based_attention_for_large-scale_trademark_retrieval/</link>
-      <pubDate>Thu, 04 Jul 2019 17:09:12 +1000</pubDate>
-      
-      <guid>https://neouyghur.github.io/publication/component-based_attention_for_large-scale_trademark_retrieval/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A_large Scale_dataset_and_benchmark_for_similar_trademark_retrieval</title>
-      <link>https://neouyghur.github.io/publication/a_large-scale_dataset_and_benchmark_for_similar_trademark_retrieval/</link>
-      <pubDate>Thu, 01 Jan 1970 10:33:36 +1000</pubDate>
-      
-      <guid>https://neouyghur.github.io/publication/a_large-scale_dataset_and_benchmark_for_similar_trademark_retrieval/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A COMPARISON OF METHODS FOR TRADEMARK RETRIEVAL IN A LARGE TRADEMARK DATASET</title>
-      <link>https://neouyghur.github.io/publication/a_comparison_of_methods_for_trademark_retrieval_in_a_large_trademark_dataset/</link>
-      <pubDate>Thu, 01 Jan 1970 10:33:35 +1000</pubDate>
-      
-      <guid>https://neouyghur.github.io/publication/a_comparison_of_methods_for_trademark_retrieval_in_a_large_trademark_dataset/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>METU dataset: A big dataset for benchmarking trademark retrieval</title>
-      <link>https://neouyghur.github.io/publication/metu_dataset_a_big_dataset_for_benchmarking_trademark_retrieval/</link>
-      <pubDate>Thu, 01 Jan 1970 10:33:35 +1000</pubDate>
-      
-      <guid>https://neouyghur.github.io/publication/metu_dataset_a_big_dataset_for_benchmarking_trademark_retrieval/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>MTRNet: A Generic Scene Text Eraser</title>
       <link>https://neouyghur.github.io/publication/mtrnet_a_generic_scene_text_eraser/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://neouyghur.github.io/publication/mtrnet_a_generic_scene_text_eraser/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Component Based Attention for Large Scale Trademark Retrieval</title>
+      <link>https://neouyghur.github.io/publication/component-based_attention_for_large-scale_trademark_retrieval/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://neouyghur.github.io/publication/component-based_attention_for_large-scale_trademark_retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Noisy uyghur text normalization</title>
       <link>https://neouyghur.github.io/publication/noisy_uyghur_text_normalization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://neouyghur.github.io/publication/noisy_uyghur_text_normalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Deep Features for Trademark Retrieval</title>
+      <link>https://neouyghur.github.io/publication/analyzing-deep-features-for-trademark-retrieval/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://neouyghur.github.io/publication/analyzing-deep-features-for-trademark-retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A_large Scale_dataset_and_benchmark_for_similar_trademark_retrieval</title>
+      <link>https://neouyghur.github.io/publication/a_large-scale_dataset_and_benchmark_for_similar_trademark_retrieval/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://neouyghur.github.io/publication/a_large-scale_dataset_and_benchmark_for_similar_trademark_retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>METU dataset: A big dataset for benchmarking trademark retrieval</title>
+      <link>https://neouyghur.github.io/publication/metu_dataset_a_big_dataset_for_benchmarking_trademark_retrieval/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://neouyghur.github.io/publication/metu_dataset_a_big_dataset_for_benchmarking_trademark_retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A COMPARISON OF METHODS FOR TRADEMARK RETRIEVAL IN A LARGE TRADEMARK DATASET</title>
+      <link>https://neouyghur.github.io/publication/a_comparison_of_methods_for_trademark_retrieval_in_a_large_trademark_dataset/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://neouyghur.github.io/publication/a_comparison_of_methods_for_trademark_retrieval_in_a_large_trademark_dataset/</guid>
       <description></description>
     </item>
     

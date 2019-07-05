@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 on Academic</title>
+    <title>3 on Osman Tursun</title>
     <link>https://neouyghur.github.io/publication_types/3/</link>
-    <description>Recent content in 3 on Academic</description>
+    <description>Recent content in 3 on Osman Tursun</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 1970 10:33:36 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://neouyghur.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Component Based Attention for Large Scale Trademark Retrieval</title>
+      <link>https://neouyghur.github.io/publication/component-based_attention_for_large-scale_trademark_retrieval/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://neouyghur.github.io/publication/component-based_attention_for_large-scale_trademark_retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A_large Scale_dataset_and_benchmark_for_similar_trademark_retrieval</title>
       <link>https://neouyghur.github.io/publication/a_large-scale_dataset_and_benchmark_for_similar_trademark_retrieval/</link>
-      <pubDate>Thu, 01 Jan 1970 10:33:36 +1000</pubDate>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://neouyghur.github.io/publication/a_large-scale_dataset_and_benchmark_for_similar_trademark_retrieval/</guid>
       <description></description>
