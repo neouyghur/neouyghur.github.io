@@ -6,10 +6,19 @@
     <description>Recent content in Sridha Sridharan on Osman Tursun</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://neouyghur.github.io/authors/sridha-sridharan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MTRNet&#43;&#43;: One-stage Mask-based Scene Text Eraser</title>
+      <link>https://neouyghur.github.io/publication/mtrnet&#43;&#43;-one-stage-mask-based-scene-text-eraser/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://neouyghur.github.io/publication/mtrnet&#43;&#43;-one-stage-mask-based-scene-text-eraser/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MTRNet: A Generic Scene Text Eraser</title>
